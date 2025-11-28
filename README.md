@@ -69,24 +69,21 @@ A fully interactive dashboard includes:
 
 ---
 
-## 📁 Project Structure
 ├── data/
 │   └── customer_shopping_behavior.csv
 │
 ├── notebooks/
-│    └── Customer_Shopping_Behavior_Analysis
+│   └── Customer_Shopping_Behavior_Analysis.ipynb
 │
 ├── sql/
-│   └── Customer shoping behavior analysis.sql
+│   └── Customer_Shopping_Behavior_Analysis.sql
 │
 ├── dashboard/
-│   └── Customer Shopping Behavior Analysis Report.pbix
+│   └── Customer_Shopping_Behavior_Analysis_Report.pbix
 │
 └── README.md
 
 
-
----
 
 ## 🛠️ Technologies Used
 - Python (Pandas, NumPy, Matplotlib)  
