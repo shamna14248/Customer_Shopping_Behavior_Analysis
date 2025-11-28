@@ -65,7 +65,17 @@ A fully interactive dashboard includes:
 - Introduce **loyalty rewards** for repeat customers  
 - Optimize discount strategies  
 - Focus marketing on **high-performing age groups**  
-- Highlight **best-selling & top-rated products**  
+- Highlight **best-selling & top-rated products**
+
+---
+
+- ## 🛠️ Technologies Used
+- Python (Pandas, NumPy, Matplotlib)  
+- PostgreSQL  
+- Power BI  
+- Jupyter Notebook  
+
+---
 
 ## 📂 Project Structure
 
@@ -83,13 +93,7 @@ Customer_Shopping_Behavior_Analysis/
 │   └── Customer_Shopping_Behavior_Analysis_Report.pbix
 └── README.md
 
-## 🛠️ Technologies Used
-- Python (Pandas, NumPy, Matplotlib)  
-- PostgreSQL  
-- Power BI  
-- Jupyter Notebook  
 
----
 
  
 
