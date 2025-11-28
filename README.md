@@ -69,7 +69,7 @@ A fully interactive dashboard includes:
 
 ---
 
-- ## 🛠️ Technologies Used
+## 🛠️ Technologies Used
 - Python (Pandas, NumPy, Matplotlib)  
 - PostgreSQL  
 - Power BI  
