@@ -67,6 +67,10 @@ A fully interactive dashboard includes:
 - Focus marketing on **high-performing age groups**  
 - Highlight **best-selling & top-rated products**  
 
+## 📂 Project Structure
+
+This project follows a standard structure for data analysis, keeping raw data, analysis notebooks, and reports organized.
+
 ```text
 Customer_Shopping_Behavior_Analysis/
 ├── data/
@@ -78,7 +82,6 @@ Customer_Shopping_Behavior_Analysis/
 ├── dashboard/
 │   └── Customer_Shopping_Behavior_Analysis_Report.pbix
 └── README.md
-'''
 
 ## 🛠️ Technologies Used
 - Python (Pandas, NumPy, Matplotlib)  
