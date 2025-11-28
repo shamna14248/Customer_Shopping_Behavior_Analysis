@@ -67,7 +67,7 @@ A fully interactive dashboard includes:
 - Focus marketing on **high-performing age groups**  
 - Highlight **best-selling & top-rated products**  
 
----
+```text
 Customer_Shopping_Behavior_Analysis/
 ├── data/
 │   └── customer_shopping_behavior.csv
@@ -78,7 +78,6 @@ Customer_Shopping_Behavior_Analysis/
 ├── dashboard/
 │   └── Customer_Shopping_Behavior_Analysis_Report.pbix
 └── README.md
-
 
 ## 🛠️ Technologies Used
 - Python (Pandas, NumPy, Matplotlib)  
