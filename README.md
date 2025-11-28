@@ -2,9 +2,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791)
 ![PowerBI](https://img.shields.io/badge/Visualization-PowerBI-F2C811)
-![Pandas](https://img.shields.io/badge/Library-Pandas-150458)
-![Status](https://img.shields.io/badge/Project-Complete-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 
 ## 📌 Overview  
 This project analyzes **3,900 customer purchase transactions** to uncover patterns in spending, product preferences, discounts, subscription behavior, and customer loyalty.  
@@ -73,10 +71,19 @@ A fully interactive dashboard includes:
 
 ## 📁 Project Structure
 ├── data/
+│   └── customer_shopping_behavior.csv
+│
 ├── notebooks/
+│    └── Customer_Shopping_Behavior_Analysis
+│
 ├── sql/
+│   └── Customer shoping behavior analysis.sql
+│
 ├── dashboard/
+│   └── Customer Shopping Behavior Analysis Report.pbix
+│
 └── README.md
+
 
 
 ---
