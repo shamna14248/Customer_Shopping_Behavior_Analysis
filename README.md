@@ -68,21 +68,16 @@ A fully interactive dashboard includes:
 - Highlight **best-selling & top-rated products**  
 
 ---
-
+Customer_Shopping_Behavior_Analysis/
 ├── data/
 │   └── customer_shopping_behavior.csv
-│
 ├── notebooks/
 │   └── Customer_Shopping_Behavior_Analysis.ipynb
-│
 ├── sql/
 │   └── Customer_Shopping_Behavior_Analysis.sql
-│
 ├── dashboard/
 │   └── Customer_Shopping_Behavior_Analysis_Report.pbix
-│
 └── README.md
-
 
 
 ## 🛠️ Technologies Used
